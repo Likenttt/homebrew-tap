@@ -1,8 +1,8 @@
 class GarminMtp < Formula
   desc "Import and export Garmin watch files over MTP"
   homepage "https://github.com/Likenttt/garmin-mtp-cli"
-  url "https://github.com/Likenttt/garmin-mtp-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "3364aa69d42965dba7759d78cc26c06f11ceb6bea2534fc51c5bdcbeb0de8cef"
+  url "https://github.com/Likenttt/garmin-mtp-cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "e007dad25c86b5ac39065bab446c0893cfa31cfa977a3476ec9130058b50d2e0"
   license "MIT"
 
   depends_on "pkgconf" => :build
